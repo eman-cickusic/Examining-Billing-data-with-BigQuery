@@ -2,7 +2,7 @@
 
 A comprehensive project demonstrating how to analyze Google Cloud billing data using BigQuery, including dataset creation, data import, and complex SQL queries for cost analysis.
 
-## Video
+## Video 
 
 https://youtu.be/_EbXHA3IwOY
 
