@@ -6,7 +6,7 @@ A comprehensive project demonstrating how to analyze Google Cloud billing data u
 
 https://youtu.be/_EbXHA3IwOY
 
-## Overview
+## Overview 
 
 This project walks through the complete process of setting up BigQuery to analyze billing data, from creating datasets and tables to running sophisticated queries that provide insights into cloud spending patterns and resource usage.
 
